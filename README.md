@@ -5,8 +5,7 @@
 The first thing to do is to clone the repository:
 
 ```sh
-$ git clone https://github.com/rishabhrathi22/url_shortener.git
-$ cd url_shortener
+$ git clone https://github.com/SasiVardhan247/url-shortner.git
 ```
 
 Create a virtual environment to install dependencies in and activate it:
