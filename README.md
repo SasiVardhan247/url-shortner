@@ -17,6 +17,14 @@ $ virtualenv venv
 $ venv\Scripts\activate
 ```
 
+If pip doesn't work in Vs-Code use:
+
+```sh
+$python3 -m pip install virtualenv
+            (or)
+$python -m pip install virtualenv
+```
+
 Then install the dependencies:
 
 ```sh
