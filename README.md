@@ -1,4 +1,4 @@
-# URL Shortener Application
+# URL Shortner Application
 
 ## Setup
 
